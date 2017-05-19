@@ -25,6 +25,7 @@ public class Test {
         }
     };
     private static List initTestingData() {
+
         List list = new ArrayList();
         for (int i = 0; i < 20; i++) {
             if(i%5==0){//方便测试,设置null值
